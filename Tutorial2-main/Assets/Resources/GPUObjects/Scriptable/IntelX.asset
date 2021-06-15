@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f868b62b4041dbf4a9c9c32597d9cc51, type: 3}
+  m_Name: IntelX
+  m_EditorClassIdentifier: 
+  Name: Intel
+  GP: X
+  Power: 250
+  Cost: 3000
+  Temperature: 0
+  Earning: 4
+  EarningPerTime: 1.5
+  sprite: {fileID: 21300000, guid: f952013bc1f501148a33d4164d479aef, type: 3}
+  myPrefab: {fileID: 8326251896792660138, guid: 63a9d8888667ac745a9b1d79148e1d2d,
+    type: 3}

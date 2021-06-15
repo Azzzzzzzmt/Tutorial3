@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f868b62b4041dbf4a9c9c32597d9cc51, type: 3}
+  m_Name: RX5600
+  m_EditorClassIdentifier: 
+  Name: Radeon
+  GP: RX 5600
+  Power: 375
+  Cost: 3750
+  Temperature: 0
+  Earning: 5.3
+  EarningPerTime: 2
+  sprite: {fileID: 21300000, guid: 7dab5c2e5d676324da33f52a64f1989c, type: 3}
+  myPrefab: {fileID: 8326251896792660138, guid: 611049a9c6eb1424982c1234552f5b62,
+    type: 3}
